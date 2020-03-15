@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AlgoritmosII.zip_expanded/AlgoritmosII/src"/>
+	<classpathentry kind="output" path="AlgoritmosII.zip_expanded/AlgoritmosII/build/classes"/>
+</classpath>
